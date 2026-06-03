@@ -14,3 +14,5 @@ Then, the user chooses to see the list of songs in their folder.
 
 <img width="340" height="138" alt="image" src="https://github.com/user-attachments/assets/5f324a2e-a1b3-4fcd-bc52-a9ea4736c220" />
 The song "Pedro.mp3" is chosen, and starts playing. Controls are shown.
+
+NO AI HAS BEEN USED IN THE MAKING OF THIS TOOL!
